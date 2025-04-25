@@ -44,11 +44,11 @@ TagManager:
   - name: Background
     uniqueID: 3215741623
     locked: 0
-  - name: Platforms
-    uniqueID: 3186445299
-    locked: 0
   - name: Water
     uniqueID: 561079651
+    locked: 0
+  - name: Platforms
+    uniqueID: 3186445299
     locked: 0
   m_RenderingLayers:
   - Default
